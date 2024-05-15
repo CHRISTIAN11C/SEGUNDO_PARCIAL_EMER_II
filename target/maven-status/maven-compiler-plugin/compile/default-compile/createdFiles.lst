@@ -1,0 +1,9 @@
+com\emergentes\controlador\AvisoController.class
+com\emergentes\modelo\Aviso.class
+com\emergentes\utiles\ConexionBD.class
+com\emergentes\JakartaRestConfiguration.class
+com\emergentes\controlador\Inicio.class
+com\emergentes\dao\AvisoDAO.class
+com\emergentes\resources\JakartaEE8Resource.class
+.netbeans_automatic_build
+com\emergentes\dao\AvisoDAOimpl.class
